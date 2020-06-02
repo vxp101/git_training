@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hi!! I'm Bob. I've been here for awhile now.
 Riot!
+=======
+Hi!! I'm Bobby. I've been here for awhile now.
+>>>>>>> not_bobby
