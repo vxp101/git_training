@@ -1,4 +1,8 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago. 
 Hello, Alice.
-RawrXD
-Another for Alice
+<<<<<<< Updated upstream
+Hi! I'm Alice. I'm a file someone added to this repository a while ago. 
+Hello, Alice.
+=======
+
+>>>>>>> Stashed changes
