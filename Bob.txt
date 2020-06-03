@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Hi!! I'm Bob. I've been here for awhile now.
+=======
+Hi!! I'm Bobby. I've been here for awhile now.
+Riot!.
+
+>>>>>>> 69522cf... Updated Bob
