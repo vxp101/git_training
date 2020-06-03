@@ -1,4 +1,9 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago. 
+<<<<<<< HEAD
 Hello, Alice. Adding stuff.
 RawrXD
 Another for Alice
+=======
+Hello, Alice.
+RawrXD
+>>>>>>> e1c3079... Changed Alice
