@@ -1,3 +1,7 @@
 Hello, Alice. Adding stuff.
 RawrXD
 Another for Alice
+<<<<<<< HEAD
+=======
+
+>>>>>>> c8e4b1d... Updated Alice
